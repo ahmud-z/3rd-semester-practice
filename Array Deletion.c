@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+/// Testing
 void array_deletion(int arr[], int sz, int value)
 {
     int index;
